@@ -3,7 +3,7 @@ Script Name: PlayerController.cs
 Project: CodeFactory
 Author: Macarios
 Editors: Macarios, Brandon
-Last Edited: November 10, 2023
+Last Edited: February 29th, 2024
 
 <Description>
 Controls the players movement options.
@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour
     public GameObject CodeBlocksMenu;
     public GameObject UI_Shop;
     public GameObject UI_Inventory;
+    public GameObject UI_Crafting;
     public GameObject UI_Building;
     public GameObject UI_Icons;
 
